@@ -27,3 +27,8 @@ body {
 @media screen and (max-width: 768px) {
     body { padding-top: 0px; }
 }
+
+.text-body{
+	text-align: center;
+	color: #696767;
+}
