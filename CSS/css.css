@@ -11,3 +11,19 @@
 .navbar .nav > li a{
 	font-size:20px;
 }
+.navbar-inner {
+	padding-left: 0;
+	padding-right: 0;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
+.clear{
+	clear: both;
+}
+body {
+ padding-top: 60px; }
+
+@media screen and (max-width: 768px) {
+    body { padding-top: 0px; }
+}
