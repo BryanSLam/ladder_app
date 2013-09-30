@@ -76,3 +76,7 @@ row{
    -moz-border-radius: 8px;
     border-radius: 8px;
 }
+
+.footer-spacing {
+	margin-bottom:20px;
+}
